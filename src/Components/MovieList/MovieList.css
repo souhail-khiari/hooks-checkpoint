@@ -1,0 +1,11 @@
+.moviesList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: url(https://image.freepik.com/free-photo/technology-digital-wave-background_34629-909.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.moviesList > * {
+    margin: 10px;
+}
